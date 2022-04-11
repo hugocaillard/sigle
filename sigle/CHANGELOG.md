@@ -1,5 +1,22 @@
 # @sigle/app
 
+## 1.2.0
+
+### Minor Changes
+
+- 90aa0ed: Improve the view when editor is loading.
+- 33eea68: Header is visible when scrolling up so users are able to save, publish and access settings at any time when writing.
+- f00586a: Add new dashboard layout
+- a834174: Add buttons to allow users to share articles on social media.
+- 34eec36: Add page for registering a username (layout only).
+- db19118: Add dark mode support with feature flag enabled.
+
+### Patch Changes
+
+- 0322c20: Fix code blocks not displaying with the correct styling on dark mode.
+- c1eabf3: Fix the github icon pointing to twitter while logged out.
+- 7d57960: Fix creation date for stories not working after the new editor release.
+
 ## 1.1.1
 
 ### Patch Changes

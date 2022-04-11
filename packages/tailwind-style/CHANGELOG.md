@@ -1,5 +1,16 @@
 # @sigle/tailwind-style
 
+## 1.1.0
+
+### Minor Changes
+
+- db19118: Add dark mode styles to config.
+
+### Patch Changes
+
+- 0322c20: Fix code block color styles on dark mode.
+- f00586a: Update editor content max width.
+
 ## 1.0.0
 
 ### Major Changes
